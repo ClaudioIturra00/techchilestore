@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Notebook Gamer ASUS ROG",
+    "precio": 1299990,
+    "valoracion": 5,
+    "imagen": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 2,
+    "nombre": "Smartphone Pro Max",
+    "precio": 1219990,
+    "valoracion": 5,
+    "imagen": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 3,
+    "nombre": "Monitor Gamer UltraGear",
+    "precio": 349990,
+    "valoracion": 4,
+    "imagen": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 4,
+    "nombre": "Mouse Gamer Logitech",
+    "precio": 49990,
+    "valoracion": 5,
+    "imagen": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 5,
+    "nombre": "Teclado Mecánico RGB",
+    "precio": 79990,
+    "valoracion": 4,
+    "imagen": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 6,
+    "nombre": "Audífonos Gamer",
+    "precio": 59990,
+    "valoracion": 4,
+    "imagen": "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 7,
+    "nombre": "Disco SSD 1TB NVMe",
+    "precio": 69990,
+    "valoracion": 5,
+    "imagen": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 8,
+    "nombre": "Cámara Web Full HD",
+    "precio": 45990,
+    "valoracion": 4,
+    "imagen": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=700&q=80"
+  }
+]
