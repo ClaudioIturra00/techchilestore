@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className="footer" id="contacto">
       <div className="footer-content">
-        {/* Información general de la tienda */}
+        {/* Información general de la tienda. */}
         <section className="footer-section" id="nosotros">
           <h2>
             Tech<span>Store</span>
