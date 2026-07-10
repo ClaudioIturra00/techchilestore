@@ -88,7 +88,7 @@ function App() {
     );
   }
 
-  // Mensaje mostrado cuando falla el backend
+  // Mensaje mostrado cuando falla el backend.
   if (error) {
     return (
       <p className="estado-mensaje error-mensaje">
