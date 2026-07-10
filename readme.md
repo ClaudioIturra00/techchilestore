@@ -78,6 +78,7 @@ La aplicación incluye las siguientes funcionalidades:
 - Ayudame a arreglar el error de Props entre `ProductList` y `ProductCard`.
 - Ayudame a crear un msg Toast que aparezca cuando se agregue un producto al carrito.
 - Ayudame a revisar si funciona mongodb con mi backend
+- Ayudame con algunos commits
 
 ## Estructura del proyecto
 
